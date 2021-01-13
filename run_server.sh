@@ -1,0 +1,1 @@
+source server/setup_credentials.sh && python server

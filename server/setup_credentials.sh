@@ -1,0 +1,2 @@
+export GOOGLE_APPLICATION_CREDENTIALS="/home/ehealth4everyone/Desktop/Python/Tutorials/fcm/server/.credentials/fcm-messaging-721a7-firebase-adminsdk-6ewhm-65c5949770.json"
+echo ">>> GOOGLE_APPLICATION_CREDENTIALS environment variable set."
